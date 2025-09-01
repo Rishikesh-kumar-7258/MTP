@@ -1,0 +1,338 @@
+[
+    {
+        "input": "In this issue of Cell Stem Cell, Shen et\u00a0al.",
+        "output": ""
+    },
+    {
+        "input": "investigate in\u00a0vivo transient expression of Yamanaka factors (YFs) during embryogenesis and an adult mouse model of Alzheimer's disease (AD)-associated amyloidosis.",
+        "output": ""
+    },
+    {
+        "input": "These studies demonstrate that transient induction of YFs may be capable of enhancing neurogenesis and offer resilience against neurodegeneration.",
+        "output": ""
+    },
+    {
+        "input": "Amyloidosis is a disorder related to errors in protein folding.",
+        "output": ""
+    },
+    {
+        "input": "The blood test revealed kidney insufficiency, an electrocardiogram identified low voltages of the peripheral leads and T waves anomalies.",
+        "output": ""
+    },
+    {
+        "input": "A serum protein electrophoresis revealed the presence of high levels of monoclonal kappa free chains.",
+        "output": ""
+    },
+    {
+        "input": "The woman started to have a sense of suffocation, and after one week she was found dead in her bed.",
+        "output": ""
+    },
+    {
+        "input": "After the autopsy, the results of Congo red staining of the myocardium were characteristic of amyloid.",
+        "output": ""
+    },
+    {
+        "input": "According to the autoptic and the histological examination, death occurred due to acute cardiac and respiratory arrest secondary to amyloid cardiomyopathy in a patient with undiagnosed systemic amyloidosis.",
+        "output": ""
+    },
+    {
+        "input": "Pericardial effusion is associated with amyloidosis, specifically amyloid light chain (AL) and transthyretin (ATTR) subtypes.",
+        "output": ""
+    },
+    {
+        "input": "We present a clinical case of systemic amyloidosis manifesting as hypotension, tachycardia, pain, weight loss, asthenia, anorexia, dysphagia, and mood deflection in a 49-year-old-year-old woman with a previous clinical history of articular and muscular pain, correlated to suspected seronegative arthritis.",
+        "output": "old @REL@ 49-year"
+    },
+    {
+        "input": "The mean age was 58.4\u00b124.5 years.",
+        "output": "mean age @REL@ 58.4\u00b124.5 years."
+    },
+    {
+        "input": "We report a 74-year-old male who presented with progressively drooping shoulders followed by other muscular involvement without other organ involvement as a manifestation of amyloidosis.",
+        "output": "old @REL@ 74-year"
+    },
+    {
+        "input": "Age \u226574 years, male sex, history of carpal tunnel, left ventricular ejection fraction <55%, posterior wall thickness over 12 mm, and relative wall thickness over 0.57 were independent predictors of positive Tc-PYP results in our cohort, and hemoglobin level <10 mg/dL, glomerular filtration rate <30 mL/min/1.73 m Two simple clinical scoring systems, derived to identify patients at high risk of having ATTR-CM necessitating further diagnostic evaluation, showed good predictive accuracy in our diverse patient cohort.",
+        "output": "Age @REL@ \u226574 years ; hemoglobin level @REL@ <10 mg/dL ; glomerular filtration rate  @REL@ <30 mL/min/1.73 m"
+    },
+    {
+        "input": "[Patient] A 65-year-old man.",
+        "output": "old man @REL@ 65-year"
+    },
+    {
+        "input": "The study population consisted of 405 patients: 29.4% AL, 14.6% variant ATTR and 56% wild-type ATTR; 82.5% were male, median age 76\u2009years.",
+        "output": "median age @REL@ 76\u2009years"
+    },
+    {
+        "input": "In a large cohort of AL and ATTR-CA patients, 8.9% received a PM within 3\u2009years after diagnosis.",
+        "output": ""
+    },
+    {
+        "input": "A 71-year-old man on maintenance hemodialysis who complained of continuous pain and swelling of joints was diagnosed with remitting seronegative symmetrical synovitis with pitting edema syndrome on his clinical findings that revealed tenosynovitis at the joint without joint erosions and no elevation of anti-cyclic citrullinated peptide antibody and rheumatoid factor.",
+        "output": "old man @REL@ 71-year"
+    },
+    {
+        "input": "We included 251 patients (mean age: 65.6 \u00b1 10.6 years, 60.6% female) in the GEDOC cohort, from the Memory Clinic at Karolinska University Hospital, Stockholm, Sweden.",
+        "output": "mean age @REL@ 65.6 \u00b1 10.6 years"
+    },
+    {
+        "input": "Cognitive decline, measured by longitudinal Mini-Mental State Examination scores, was followed for an average of 10.7 \u00b1 4.1 years and modelled using non-linear mixed effects models.",
+        "output": ""
+    },
+    {
+        "input": "Log uRBPCR at diagnosis was a strong independent predictor of end-stage renal disease {hazard ratio [HR] 2\u00b765, [95% confidence interval (CI) 1\u00b706-6\u00b764]; P\u00a0=\u00a00\u00b7038}, particularly in patients with an eGFR >30\u00a0ml/min/1.73\u00a0m",
+        "output": "eGFR @REL@ >30\u00a0ml/min/1.73\u00a0m"
+    },
+    {
+        "input": "More patients with AL amyloidosis had monotypic lambda light-chain disease, estimated glomerular filtration rate (eGFR) \u2265\u200960 mL/min and nephrotic proteinuria than other-MGRS group.",
+        "output": "glomerular filtration rate (eGFR) @REL@ \u2265\u200960 mL/min"
+    },
+    {
+        "input": "Preserved renal function at diagnosis was predictive of improved PFS in the AL amyloidosis group (eGFR \u2265\u200960 mL/min: HR\u2009=\u20090.003; p\u2009=\u20090.018; eGFR 30-60 mL/min: HR\u2009=\u20090.04, p\u2009=\u20090.046).",
+        "output": "eGFR @REL@ \u2265\u200960 mL/min ; eGFR  @REL@ 30-60 mL/min"
+    },
+    {
+        "input": "In multivariate analysis, cardiac involvement at presentation (HR 6.26 [95% CI, 2.89-13.56]) and estimated glomerular filtration rate <30 mL/min/1.73 m2 (HR 2.05 [95% CI, 1.06-3.99]) independently influenced AA and AL amyloidosis survival.",
+        "output": "glomerular filtration rate @REL@ <30 mL/min/1.73 m2"
+    },
+    {
+        "input": "We evaluated chronic kidney disease (CKD) (proteinuria or estimated glomerular filtration rate < 60 mL/min/1.73 m",
+        "output": "glomerular filtration rate @REL@ < 60 mL/min/1.73 m"
+    },
+    {
+        "input": "The mean estimated glomerular filtration rate (eGFR) was 98.8\u00a0ml/min/1.73\u2009m Amyloidosis, a rare disease with poor prognosis without treatment.",
+        "output": "glomerular filtration rate (eGFR) @REL@ 98.8\u00a0ml/min/1.73\u2009m"
+    },
+    {
+        "input": "The analysis of estimated glomerular filtration rate (eGFR) slopes revealed that the average change in eGFR was 0.01 mL/min/1.73 m",
+        "output": "eGFR @REL@ 0.01 mL/min/1.73 m"
+    },
+    {
+        "input": "Thirty-four patients with glomerular filtration rate (GFR) over 20\u00a0ml/min/1.73m Mean whole kidney, cortex, and medulla stiffnesses were 3.78 (\u00b1\u20091.26), 3.63 (\u00b1\u20091.25), and 4.77 (\u00b1\u20092.03) kPa, respectively.",
+        "output": "glomerular filtration rate (GFR) @REL@ 20\u00a0ml/min/1.73m ; kidney, cortex, and medulla stiffnesses @REL@ 3.78 (\u00b1\u20091.26), 3.63 (\u00b1\u20091.25), and 4.77 (\u00b1\u20092.03) kPa"
+    },
+    {
+        "input": "Creatine kinase-MB, estimated glomerular filtration rate\u2009\u2264\u200950\u00a0mL/min/1.73\u00a0m",
+        "output": "glomerular filtration rate @REL@ \u2264\u200950\u00a0mL/min/1.73\u00a0m"
+    },
+    {
+        "input": "A score of 1 was assigned for each of the following-the difference between the involved and uninvolved free light chains \u2265100 mg/L, estimated glomerular filtration rate (eGFR) <60 mL/min/1.73 m The new staging system has been developed that incorporates plasma cell-related characteristics in addition to cardiac, renal, and hepatic function parameters.",
+        "output": "uninvolved free light chains @REL@ \u2265100 mg/L ; glomerular filtration rate (eGFR) @REL@ <60 mL/min/1.73 m"
+    },
+    {
+        "input": "In conclusion, the uACR is a reliable and convenient method for ruling out proteinuria >500\u2009mg per day, prognosticating renal outcomes, and assessing renal response to therapy.",
+        "output": "proteinuria @REL@ >500\u2009mg per day"
+    },
+    {
+        "input": "Serum free light chain Kappa 575 mg/l (/44.9) was detected.",
+        "output": ""
+    },
+    {
+        "input": "Proteinuria \u22651.5 g/d, hematuria, and an elevated free light chain ratio increase the likelihood of finding MGRS, and a kidney biopsy should be highly considered in such patients.",
+        "output": "Proteinuria @REL@ \u22651.5 g/d"
+    },
+    {
+        "input": "The patient significantly improved with methylprednisolone sodium succinate for injection (40\u200amg/day) for 5 days and low-dose oral prednisone for 10 days.",
+        "output": ""
+    },
+    {
+        "input": "For acute-phase response,\u00a0canakinumab probably caused a higher proportion of participants to have a CRP level of 10 mg/L or less compared to placebo (68% with canakinumab versus 6% with placebo; 1 study, 63 participants; moderate-certainty evidence).",
+        "output": "CRP @REL@ 10 mg/L or less"
+    },
+    {
+        "input": "Primary outcomes were complete response (ie, clinical remission, CRP \u226410 mg/L, and prednisolone \u226410 mg per day) and partial response (ie, clinical remission with \u226550% reductions in both CRP and glucocorticoid dose from baseline) to treatment.",
+        "output": "CRP @REL@ \u226410 mg/L ; prednisolone @REL@ \u226410 mg per day"
+    },
+    {
+        "input": "By 6 months, median CRP concentrations had decreased in patients receiving tocilizumab (from 30 mg/L [IQR 13-45] to 4 mg/L [3-37]) or anakinra (from 18 mg/L [11-52] to 2 mg/L [1-28]), whereas azacitidine showed the greatest increase in haemoglobin (from mean concentration 104 g/L [SD 17\u00b75] to 120 g/L [14\u00b74]).",
+        "output": "median CRP @REL@ (from 30 mg/L [IQR 13-45] to 4 mg/L [3-37]) ; anakinra @REL@ from 18 mg/L [11-52] to 2 mg/L [1-28] ; azacitidine @REL@ from mean concentration 104 g/L [SD 17\u00b75] to 120 g/L [14\u00b74]"
+    },
+    {
+        "input": "Recent literature suggests that an involved free light chain (iFLC) <20\u2009mg/L or difference in free light chains (dFLC) <10\u2009mg/L may more accurately predict outcomes after treatment.",
+        "output": ""
+    },
+    {
+        "input": "Of 305 patients evaluable 6 months after SCT, 90 (30%) achieved hemCR, 132 (43%) dFLC <10\u2009mg/L, 118 (39%) iFLC <20\u2009mg/L, and 176 (58%) normal FLCR.",
+        "output": ""
+    },
+    {
+        "input": "Of 215 patients without hemCR, 65 (30%) had dFLC <10\u2009mg/L and 86 (40%) had normal FLCR.",
+        "output": ""
+    },
+    {
+        "input": "Cerebral spinal fluid examination revealed a markedly elevated protein level of 140\u00a0mg/dL, and contrast-enhanced magnetic resonance imaging showed bilateral L4 and 5 nerve roots with enlargement and contrast effect.",
+        "output": "Cerebral spinal fluid  @REL@ 140\u00a0mg/dL ; protein level @REL@ 140\u00a0mg/dL"
+    },
+    {
+        "input": "Compared with Hispanic and non-Hispanic White patients, non-Hispanic Black patients had higher median levels of C-reactive protein (1.0, 0.8, and 3.5\u00a0mg/dL, respectively; P\u00a0= .02) and baseline ferritin (362.0 vs 307.0 vs 680.5, respectively; P\u00a0= .08) and were more likely to develop cytokine release syndrome (77%, 85%, and 97%, respectively; P\u00a0= .04).",
+        "output": "C-reactive protein @REL@ 1.0 ; C-reactive protein @REL@ 0.8 ; C-reactive protein @REL@ 3.5 ; 1.0 @REL@ mg/dL ; 0.8 @REL@ mg/dL ; 3.5 @REL@ mg/dL"
+    },
+    {
+        "input": "For diflunisal efficacy outcomes, we found no statistically significant changes in BNP, troponin I, LVEF, GLS, IVSD, PWD, and E wave from baseline to diflunisal posttreatment, however, we found a statistically significant posttreatment increase of transthyretin level (MD 9.34\u00a0mg/dL; CI 1.54-17.14; I Diflunisal therapy is beneficial in treating ATTR-CA patients but is associated with adverse effects that require therapy discontinuation.",
+        "output": ""
+    },
+    {
+        "input": "Patients with creatinine levels below 1.5\u2009mg/dl at onset benefitted more from IL-1 inhibition with regard to their kidney functions and acute phase reactants.",
+        "output": "creatinine levels @REL@ below 1.5\u2009mg/dl"
+    },
+    {
+        "input": "Serum \u03b22-microglobulin level higher than 4 mg/dL was significantly associated with poor OS.",
+        "output": "\u03b22-microglobulin @REL@ higher than 4 mg/dL"
+    },
+    {
+        "input": "Treatment with acoramidis resulted in a sharp and significant early rise in sTTR levels (mean 9.1 mg/dL) within 28 days which was sustained throughout the 30-month treatment period.",
+        "output": "sTTR levels @REL@ mean 9.1 mg/dL"
+    },
+    {
+        "input": "Participants with \u226520 mg/dL sTTR at baseline had significantly (P < 0.0001) greater overall survival probability than those with <20 mg/dL.",
+        "output": "sTTR @REL@ \u226520 mg/dL"
+    },
+    {
+        "input": "An early increase in sTTR levels on day 28 of dosing (early \u0394TTR) was associated with reduced ACM in univariate analysis (HR: 0.96 per 1 mg/dL increase in early \u0394TTR; 95% CI: 0.93-0.98; P = 0.002).",
+        "output": ""
+    },
+    {
+        "input": "For every 5 mg/dL increase in sTTR levels, a logistic model predicted a 31.6% relative reduction in odds of ACM.",
+        "output": "sTTR levels @REL@ 5 mg/dL increase"
+    },
+    {
+        "input": "In the SGLT2i group, the mean hemoglobin level increased (+1.2 mg/dL), whereas in the control group, it decreased (-0.8 g/dL) ( SGLT2i therapy improved hematological parameters and stabilized the FC of CA patients.",
+        "output": "mean hemoglobin level @REL@ +1.2 mg/dL ; mean hemoglobin level @REL@ -0.8 g/dL"
+    },
+    {
+        "input": "In the ROC analysis, GCW proved to be the best survival predictor (AUC: 0.7) with optimal cut-off value 1294\u00a0mmHg%.",
+        "output": ""
+    },
+    {
+        "input": "Shear wave propagation speed and MS were significantly higher in patients with CA than in HV in the basal anteroseptal segment (MS PLAX 6.6 \u00b1 1.4 kPa vs. 5.38 \u00b1 1.1 kPa, respectively, p = 0.01; PSAX 6.86 \u00b1 1.4 kPa vs. 5.6 \u00b1 1.2 kPa, respectively, p = 0.01) and in the right ventricle (5.9 \u00b1 2.6 kPa vs. 4.0 \u00b1 0.7 kPa, respectively, p = 0.003), with no difference in the mid anteroseptal segment and the apical septal.",
+        "output": ""
+    },
+    {
+        "input": "There was a difference in the MS of patients with CA in the right ventricle when compared to the FD group (5.9 \u00b1 2.6 kPa vs. 4.4 \u00b1 1.0 kPa, respectively, p = 0.01).",
+        "output": ""
+    },
+    {
+        "input": "It is an AVS in which, despite the preserved ejection fraction, the mean transvalvular gradient is not suggestive of severe AVS (<40 mmHg).",
+        "output": ""
+    },
+    {
+        "input": "Trimetazidine did not significantly reduce mPAWP during peak exercise (31\u00a0\u00b1\u00a012 vs. 31\u00a0\u00b1\u00a013\u00a0mmHg, P\u00a0=\u00a00.61) or improve the cardiac mitochondrial oxidative phosphorylation capacity (73.4\u00a0\u00b1\u00a07.7 vs. 75.3\u00a0\u00b1\u00a07.7\u00a0pmol O In ATTRwt, treatment with trimetazidine did not improve mPAWP or cardiac mitochondrial oxidative phosphorylation capacity compared with placebo.",
+        "output": ""
+    },
+    {
+        "input": "The pre-pump arterial and post-pump pressures were, respectively, 40 and 100 mm Hg, with no machine alarm.",
+        "output": "pre-pump arterial @REL@ pressures ; post-pump @REL@ pressures ; 40 @REL@ mm Hg ; 100 @REL@ mm Hg ; pre-pump arterial @REL@ 40 ; post-pump @REL@ 100"
+    },
+    {
+        "input": "Postoperative IOPs were significantly reduced from the baseline of 25.2\u00b15.8 mmHg to 11.5\u00b12.7 at 3, 12.3\u00b14.1 at 6, and 13.8\u00b13.9 at 12 months (Dunnett's test).",
+        "output": ""
+    },
+    {
+        "input": "The echocardiographic evaluation revealed a non-dilated LV with normal wall thickness, no granular sparkling echotexture of the myocardium, a mildly dilated left atrium, restrictive filling (grade 3 diastolic dysfunction), and pericardial effusion.",
+        "output": ""
+    },
+    {
+        "input": "The best cut-off values to predict all-cause mortality for GWI, GWE, GLS, LVEF and MCF were 937\u2009mm Hg/%, 89%, 10%, 52% and 15%, respectively.",
+        "output": "GWI @REL@ 937\u2009mm Hg/% ; GWE @REL@ 89% ; GLS @REL@ 10% ; LVEF @REL@ 52% ; MCF @REL@ 15%"
+    },
+    {
+        "input": "CA was less likely in those with coronary artery disease (OR 0.04), hypertension (OR 0.18), and increased systolic blood pressure (OR 0.60 per 5\u00a0mm Hg increase).",
+        "output": ""
+    },
+    {
+        "input": "Twenty-seven percent (3 of 11) of children with minor injuries and 25% (2 of 8) of those with major injuries had microscopic hematuria of less than 20 RBCs/HPF.",
+        "output": "microscopic hematuria @REL@ 20 RBCs/HPF"
+    },
+    {
+        "input": "The authors found that (1) a threshold of > or = 20 RBCs/HPF as an indication for radiograph evaluation would have missed 28% of cases with GU tract injuries or occult anomalies, and (2) pelvic fractures and abdominal/chest injuries help to identify patients who require evaluation of the GU tract.",
+        "output": ""
+    },
+    {
+        "input": "Urinalysis was positive for 2\u2009+\u2009protein and 360 RBCs/HPF.",
+        "output": "Urinalysis @REL@ 2\u2009+\u2009protein ; Urinalysis @REL@ 360 RBCs/HPF"
+    },
+    {
+        "input": "We analyzed the performance of 3 urine dipstick assays to detect proteinuria compared to 24-hour protein/creatinine ratios, using 2224 dipstick measures from 296 patients.",
+        "output": ""
+    },
+    {
+        "input": "In addition, the grade of hematuria significantly reduced after 24 months of steroid therapy (35.6 +/- 36.3 RBC/HPF vs. 13.7 +/- 28.4 RBC/HPF, P = 0.0249) and 24 months of anti-platelet drugs (30.1 +/- 37.1 RBC/HPF vs. 12.4 +/- 20.3 RBC/HPF, P = 0.0465), respectively.",
+        "output": "hematuria @REL@ 35.6 +/- 36.3 RBC/HPF ; 35.6 +/- 36.3 RBC/HPF @REL@ 13.7 +/- 28.4 RBC/HPF ; hematuria @REL@ 30.1 +/- 37.1 RBC/HPF ; 30.1 +/- 37.1 RBC/HPF @REL@ 12.4 +/- 20.3 RBC/HPF"
+    },
+    {
+        "input": "Both women were diagnosed with HSP, and the results of urinalysis indicated that the HSP had already progressed to renal involvement (3+ proteinuria with 3+ urine occult blood in case 1; 100-120 RBC/HPF with 2+ urine occult blood in Case 2).",
+        "output": ""
+    },
+    {
+        "input": "A uACR cutoff of 3600\u2009mg/g best predicted a 24hUP\u2009>\u20095000\u2009g (sensitivity 93%, specificity 94%), and renal stage at diagnosis was strongly concordant using either 24hUP or uACR as the proteinuria measure (k\u2009=\u20090.823, 95% CI 0.728-0.919).",
+        "output": ""
+    },
+    {
+        "input": "Here, we performed an in-depth and time-resolved behavioral and metabolic characterization of a clinically relevant AD mouse model engineered to express normal physiological levels of APP harboring humanized Swedish (K670N/M671L), Beyreuther/Iberian (I716F), and Arctic (E693G) mutations (",
+        "output": ""
+    },
+    {
+        "input": "6aJL2R24G is a recombinant variant of the \u03bb6a germline protein, a germline present in 25\u00a0% of the amyloid-associated \u03bb6a light chain amyloidosis cases.",
+        "output": ""
+    },
+    {
+        "input": "Molecular dynamics simulations suggest that the interaction between 6aJL2R24G and Zn(II) destabilizes strand A, strand G and the EF loop, making the protein more prone to initiate the formation of amyloid fibers.",
+        "output": ""
+    },
+    {
+        "input": "Furthermore, models of 6aJL2R24G dimers and tetramers with Zn(II) suggest that Zn(II) promotes the association of the proteins, involving histidine, aspartate, and glutamate residues, with multiple different geometries, effectively raising the local protein concentration and promoting seed formation, but adopting conformations different from the one required for further monomer addition to the fiber.",
+        "output": ""
+    },
+    {
+        "input": "Patients with amyloidosis and HCM exhibited the highest IVS thickness (17.4\u2009\u00b1\u20093.3\u00a0mm and 17.4\u2009\u00b1\u20096\u00a0mm, respectively, p\u2009<\u20090.05 vs. all other groups), whereas patients with amyloidosis showed the highest LV mass index (95.1\u2009\u00b1\u200920.1\u00a0g/m Fast-SENC derived myocardial strain is a valuable tool for differentiating between athletes vs. HCM and athletes vs. HHD.",
+        "output": "IVS thickness @REL@ 17.4\u2009\u00b1\u20093.3\u00a0mm ; IVS thickness @REL@ 17.4\u2009\u00b1\u20096\u00a0mm ; LV mass index @REL@ 95.1\u2009\u00b1\u200920.1\u00a0g/m"
+    },
+    {
+        "input": "The TTR c.148G\u2009>\u2009T mutation (V30L) in ATTR is rarely reported, and its biochemical properties are unknown.",
+        "output": ""
+    },
+    {
+        "input": "We detected four recurrent mutations (c.393 T > G, p.Y131*; c.565C > T, p.R189*; c.1056delT, p.P353Lfs*20; c.1238 G > C, p.C413S) and two novel mutations (c.935delA, p.N312Tfs*4; c.969 T > A, p.C323*) in GPNMB.",
+        "output": ""
+    },
+    {
+        "input": "The c.1238 G > C mutation, which was detected in the autosomal-dominant case, caused abnormal reticular subcellular localization of the protein.",
+        "output": ""
+    },
+    {
+        "input": "Its application is considered safe, provided that the daily dose administered does not exceed 1 gram per kilogram of patient weight.",
+        "output": ""
+    },
+    {
+        "input": "Dynamic The mIF 1-TC model detected perfusion deficits and  Pharmacokinetic (1-TC) modelling using a 30\u00a0min PET-MR time frame detected impaired haemodynamics and increased amyloid load in probable CAA.",
+        "output": ""
+    },
+    {
+        "input": "A two-tissue-compartment (2TC) kinetic model was fitted to time-activity curves (TAC) obtained from left ventricle wall and left atrium cavity ROIs to estimate kinetic micro- and macro-parameters.",
+        "output": ""
+    },
+    {
+        "input": "Pharmacokinetic analysis based on a 2TC model allows cardiac amyloidosis characterization from dynamic [18F]Florbetaben PET images.",
+        "output": ""
+    },
+    {
+        "input": "TTR cardiac amyloidosis was diagnosed according to accepted criteria, which include positive cardiac 99-Tc-DPD scintigraphy in the absence of monoclonal protein expansion in blood.",
+        "output": ""
+    },
+    {
+        "input": "The effect of therapy on clinical end points (death, cardiac and cerebrovascular event, renal failure), cardiac and renal function monitored by Doppler echocardiography, 99Tc-GFR, and proteinuria was investigated.",
+        "output": ""
+    },
+    {
+        "input": "Statistical analysis showed a significantly increased chance of TR in children carrying 3435TC genotype (OR=5.13, 95% CI=1.18-22.25; overdominant model).",
+        "output": ""
+    },
+    {
+        "input": "The purpose of this study was to describe the ultrasonographic (US) and computed tomographic (CT) appearance of autosomal dominant polycystic kidney disease (ADPKD) in cats; to compare renal volume in cats with ADPKD (n = 5; mean age 59 +/- 10 months)) and normal cats (n = 5; mean age 66 +/- 10 months) using 2 imaging modalities, US and CT; and to calculate cyst volume using CT. Glomerular filtration rate (GFR) was determined by 2 methods: 99mTc-diethylene-triaminepentaacetic acid (99mTc-DPTA) scintigraphic uptake and 99-Tc-DTPA plasma clearance.",
+        "output": ""
+    },
+    {
+        "input": "Highly active anti-retroviral therapy (HAART) consisting of efavirenz, 3TC, and d4T was started.",
+        "output": ""
+    }
+]
